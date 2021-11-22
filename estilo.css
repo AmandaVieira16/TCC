@@ -1,0 +1,22 @@
+header{
+
+    color:blue;
+}
+footer{
+
+    color:green;
+}
+body{
+    background-color:whitesmoke;
+}
+form{
+    background-color: yellow;
+}
+nav{
+    background-color: yellowgreen;
+    margin: 10px;
+    padding: 10px                   ;
+}
+header{
+    background-color: chartreuse;
+}
